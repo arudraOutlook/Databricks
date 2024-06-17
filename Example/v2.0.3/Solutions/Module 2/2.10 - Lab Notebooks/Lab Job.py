@@ -19,7 +19,7 @@
 
 # COMMAND ----------
 
-lesson_name = "lab_job"
+lesson_name = "lab_jobstest"
 DA = DBAcademyHelper(course_config=course_config,
                      lesson_config=lesson_config)
 
